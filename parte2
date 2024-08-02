@@ -1,0 +1,32 @@
+
+
+
+* {
+    padding-left: 11;
+    margin:0;
+    padding:0;
+    /*box-sizing: border-box */
+}
+    body {
+        front-family: Arial, sans-serif;
+        line-heigh: 1.6;
+        background-color: #f4f4f4;
+        color: #333;
+        pedding-top: 50px;
+
+        
+    }
+
+    
+    header {
+        background: #333;
+        color: #fff
+        padding: 10px 0;
+        position: fixed;
+        width: 100%
+        top: 0;
+    }
+    
+    nav ul{
+        list-style: none
+    }
